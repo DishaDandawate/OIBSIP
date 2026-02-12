@@ -1,0 +1,25 @@
+# Google Play Store Data Analysis
+
+## Objective
+To analyze Google Play Store data and understand app market trends.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Steps Performed
+- Data Cleaning
+- Category Analysis
+- Rating Analysis
+- Reviews and Installations Analysis
+- Visualization
+
+## Key Insights
+- Some categories have more installs but lower ratings.
+- Free apps dominate the market.
+- Apps with higher reviews tend to have better ratings.
+
+## Conclusion
+The analysis provides insights into app market trends and helps understand user preferences.
