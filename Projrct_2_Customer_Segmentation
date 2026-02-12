@@ -1,0 +1,24 @@
+# Customer Segmentation Analysis
+
+## Objective
+To segment customers into different groups based on their purchasing behavior.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn (K-Means Clustering)
+
+## Steps Performed
+- Data Cleaning
+- Feature Selection
+- Applying K-Means Algorithm
+- Cluster Visualization
+
+## Key Insights
+- Customers were divided into different spending groups.
+- High-value customers were identified.
+- Business can target each segment differently.
+
+## Conclusion
+Customer segmentation helps businesses improve marketing strategies and increase revenue.
