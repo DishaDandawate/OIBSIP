@@ -1,0 +1,25 @@
+# Predicting House Prices with Linear Regression
+
+## Objective
+To predict house prices using Linear Regression model.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Steps Performed
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Selection
+- Model Building (Linear Regression)
+- Model Evaluation
+
+## Key Insights
+- Area and number of rooms significantly affect price.
+- Model shows good prediction accuracy.
+- Price increases proportionally with property size.
+
+## Conclusion
+Linear Regression model successfully predicted house prices based on selected features.
