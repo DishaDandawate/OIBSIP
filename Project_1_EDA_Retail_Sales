@@ -1,0 +1,25 @@
+# EDA on Retail Sales Data
+
+## Objective
+To perform Exploratory Data Analysis (EDA) on retail sales data to identify sales trends and business insights.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Steps Performed
+- Data Cleaning
+- Handling Missing Values
+- Sales Trend Analysis
+- Category-wise Sales Analysis
+- Data Visualization
+
+## Key Insights
+- Certain product categories generate higher revenue.
+- Sales show seasonal trends.
+- Some regions contribute more to total sales.
+
+## Conclusion
+EDA helped in understanding sales patterns and business performance.
